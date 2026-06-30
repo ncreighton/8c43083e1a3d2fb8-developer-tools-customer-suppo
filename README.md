@@ -1,0 +1,2 @@
+# 8c43083e1a3d2fb8-developer-tools-customer-suppo
+Built for software engineers and DevOps teams who are tired of switching between tabs and losing context.  Works directly in Chrome, Edge, and Brave — no switching apps required. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Developer Tools Customer Support Ticketing — fully configured and re
